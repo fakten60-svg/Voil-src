@@ -1,0 +1,159 @@
+{
+  "accentColor1": [
+    140,
+    160,
+    210
+  ],
+  "accentColor2": [
+    180,
+    200,
+    240
+  ],
+  "blue1Enable": 240,
+  "blueEnable": 210,
+  "checkboxB": 210,
+  "checkboxG": 160,
+  "checkboxR": 140,
+  "configEditBg": [
+    230,
+    240,
+    250
+  ],
+  "description": "Bright blue powder colors",
+  "enabled": [
+    140,
+    160,
+    210
+  ],
+  "glowEnabled": false,
+  "green1Enable": 200,
+  "greenEnable": 160,
+  "highlightColor": [
+    180,
+    200,
+    240
+  ],
+  "leftPanel": [
+    215,
+    225,
+    240
+  ],
+  "light_id": "SVwzxC",
+  "modeSettingBg": [
+    205,
+    225,
+    245
+  ],
+  "modeSettingFill": [
+    210,
+    230,
+    250
+  ],
+  "moduleBorder": [
+    180,
+    200,
+    230
+  ],
+  "moduleColor": [
+    180,
+    200,
+    230
+  ],
+  "moduleDisabledBg": [
+    195,
+    215,
+    235
+  ],
+  "moduleDisabledBgHover": [
+    200,
+    220,
+    240
+  ],
+  "moduleEnabledBg": [
+    205,
+    225,
+    245
+  ],
+  "moduleEnabledBgHover": [
+    210,
+    230,
+    250
+  ],
+  "moduleText": [
+    70,
+    90,
+    140
+  ],
+  "name": "Powder",
+  "normalTextColor": [
+    80,
+    100,
+    150
+  ],
+  "outlineColor": [
+    180,
+    200,
+    230
+  ],
+  "red1Enable": 180,
+  "redEnable": 140,
+  "settingsBg": [
+    225,
+    235,
+    245
+  ],
+  "settingsHeader": [
+    200,
+    220,
+    240
+  ],
+  "sliderSettingBg": [
+    180,
+    200,
+    230
+  ],
+  "toggleButtonBg": [
+    140,
+    160,
+    210
+  ],
+  "toggleButtonFill": [
+    230,
+    240,
+    250
+  ],
+  "type": "light",
+  "unfocusedTextColor": [
+    90,
+    110,
+    150
+  ],
+  "windowColor": [
+    230,
+    240,
+    250
+  ],
+  "id": "SVwzxC",
+  "preview": {
+    "start": [
+      140,
+      160,
+      210
+    ],
+    "end": [
+      180,
+      200,
+      240
+    ],
+    "accent": [
+      140,
+      160,
+      210
+    ],
+    "background": [
+      230,
+      240,
+      250
+    ]
+  }
+}

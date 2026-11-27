@@ -1,0 +1,159 @@
+{
+  "accentColor1": [
+    220,
+    160,
+    130
+  ],
+  "accentColor2": [
+    240,
+    180,
+    150
+  ],
+  "blue1Enable": 150,
+  "blueEnable": 130,
+  "checkboxB": 130,
+  "checkboxG": 160,
+  "checkboxR": 220,
+  "configEditBg": [
+    90,
+    55,
+    40
+  ],
+  "dark_id": "cZd3gv",
+  "description": "Brown based theme",
+  "enabled": [
+    220,
+    160,
+    130
+  ],
+  "glowEnabled": false,
+  "green1Enable": 180,
+  "greenEnable": 160,
+  "highlightColor": [
+    240,
+    180,
+    150
+  ],
+  "leftPanel": [
+    110,
+    70,
+    55
+  ],
+  "modeSettingBg": [
+    115,
+    75,
+    60
+  ],
+  "modeSettingFill": [
+    135,
+    95,
+    80
+  ],
+  "moduleBorder": [
+    120,
+    80,
+    65
+  ],
+  "moduleColor": [
+    100,
+    60,
+    45
+  ],
+  "moduleDisabledBg": [
+    105,
+    65,
+    50
+  ],
+  "moduleDisabledBgHover": [
+    110,
+    70,
+    55
+  ],
+  "moduleEnabledBg": [
+    115,
+    75,
+    60
+  ],
+  "moduleEnabledBgHover": [
+    135,
+    95,
+    80
+  ],
+  "moduleText": [
+    250,
+    200,
+    170
+  ],
+  "name": "Clay",
+  "normalTextColor": [
+    240,
+    190,
+    160
+  ],
+  "outlineColor": [
+    105,
+    65,
+    50
+  ],
+  "red1Enable": 240,
+  "redEnable": 220,
+  "settingsBg": [
+    100,
+    60,
+    45
+  ],
+  "settingsHeader": [
+    125,
+    85,
+    70
+  ],
+  "sliderSettingBg": [
+    110,
+    70,
+    55
+  ],
+  "toggleButtonBg": [
+    220,
+    160,
+    130
+  ],
+  "toggleButtonFill": [
+    90,
+    55,
+    40
+  ],
+  "type": "dark",
+  "unfocusedTextColor": [
+    190,
+    140,
+    110
+  ],
+  "windowColor": [
+    90,
+    55,
+    40
+  ],
+  "id": "cZd3gv",
+  "preview": {
+    "start": [
+      220,
+      160,
+      130
+    ],
+    "end": [
+      240,
+      180,
+      150
+    ],
+    "accent": [
+      220,
+      160,
+      130
+    ],
+    "background": [
+      90,
+      55,
+      40
+    ]
+  }
+}

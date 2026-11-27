@@ -1,0 +1,159 @@
+{
+  "accentColor1": [
+    130,
+    180,
+    140
+  ],
+  "accentColor2": [
+    150,
+    200,
+    170
+  ],
+  "blue1Enable": 170,
+  "blueEnable": 140,
+  "checkboxB": 140,
+  "checkboxG": 180,
+  "checkboxR": 130,
+  "configEditBg": [
+    45,
+    60,
+    50
+  ],
+  "dark_id": "Q7GFxP",
+  "description": "Foresty theme",
+  "enabled": [
+    130,
+    180,
+    140
+  ],
+  "glowEnabled": false,
+  "green1Enable": 200,
+  "greenEnable": 180,
+  "highlightColor": [
+    150,
+    200,
+    170
+  ],
+  "leftPanel": [
+    60,
+    75,
+    65
+  ],
+  "modeSettingBg": [
+    70,
+    85,
+    75
+  ],
+  "modeSettingFill": [
+    85,
+    100,
+    90
+  ],
+  "moduleBorder": [
+    70,
+    85,
+    75
+  ],
+  "moduleColor": [
+    55,
+    70,
+    60
+  ],
+  "moduleDisabledBg": [
+    60,
+    75,
+    65
+  ],
+  "moduleDisabledBgHover": [
+    60,
+    75,
+    65
+  ],
+  "moduleEnabledBg": [
+    70,
+    85,
+    75
+  ],
+  "moduleEnabledBgHover": [
+    85,
+    100,
+    90
+  ],
+  "moduleText": [
+    190,
+    240,
+    200
+  ],
+  "name": "Pine",
+  "normalTextColor": [
+    170,
+    230,
+    180
+  ],
+  "outlineColor": [
+    60,
+    75,
+    65
+  ],
+  "red1Enable": 150,
+  "redEnable": 130,
+  "settingsBg": [
+    55,
+    70,
+    60
+  ],
+  "settingsHeader": [
+    75,
+    90,
+    80
+  ],
+  "sliderSettingBg": [
+    60,
+    75,
+    65
+  ],
+  "toggleButtonBg": [
+    130,
+    180,
+    140
+  ],
+  "toggleButtonFill": [
+    45,
+    60,
+    50
+  ],
+  "type": "dark",
+  "unfocusedTextColor": [
+    110,
+    160,
+    130
+  ],
+  "windowColor": [
+    45,
+    60,
+    50
+  ],
+  "id": "Q7GFxP",
+  "preview": {
+    "start": [
+      130,
+      180,
+      140
+    ],
+    "end": [
+      150,
+      200,
+      170
+    ],
+    "accent": [
+      130,
+      180,
+      140
+    ],
+    "background": [
+      45,
+      60,
+      50
+    ]
+  }
+}

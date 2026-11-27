@@ -1,0 +1,159 @@
+{
+  "accentColor1": [
+    240,
+    130,
+    115
+  ],
+  "accentColor2": [
+    255,
+    180,
+    165
+  ],
+  "blue1Enable": 165,
+  "blueEnable": 115,
+  "checkboxB": 115,
+  "checkboxG": 130,
+  "checkboxR": 240,
+  "configEditBg": [
+    255,
+    245,
+    240
+  ],
+  "description": "Ocean coral based theme",
+  "enabled": [
+    240,
+    130,
+    115
+  ],
+  "glowEnabled": false,
+  "green1Enable": 180,
+  "greenEnable": 130,
+  "highlightColor": [
+    255,
+    180,
+    165
+  ],
+  "leftPanel": [
+    250,
+    230,
+    225
+  ],
+  "light_id": "74VSvc",
+  "modeSettingBg": [
+    240,
+    200,
+    195
+  ],
+  "modeSettingFill": [
+    245,
+    210,
+    205
+  ],
+  "moduleBorder": [
+    220,
+    180,
+    170
+  ],
+  "moduleColor": [
+    220,
+    180,
+    175
+  ],
+  "moduleDisabledBg": [
+    230,
+    190,
+    185
+  ],
+  "moduleDisabledBgHover": [
+    235,
+    195,
+    190
+  ],
+  "moduleEnabledBg": [
+    240,
+    200,
+    195
+  ],
+  "moduleEnabledBgHover": [
+    245,
+    210,
+    205
+  ],
+  "moduleText": [
+    100,
+    60,
+    55
+  ],
+  "name": "Coral",
+  "normalTextColor": [
+    110,
+    65,
+    60
+  ],
+  "outlineColor": [
+    210,
+    170,
+    165
+  ],
+  "red1Enable": 255,
+  "redEnable": 240,
+  "settingsBg": [
+    255,
+    245,
+    240
+  ],
+  "settingsHeader": [
+    235,
+    190,
+    185
+  ],
+  "sliderSettingBg": [
+    220,
+    180,
+    175
+  ],
+  "toggleButtonBg": [
+    240,
+    130,
+    115
+  ],
+  "toggleButtonFill": [
+    255,
+    245,
+    240
+  ],
+  "type": "light",
+  "unfocusedTextColor": [
+    170,
+    80,
+    70
+  ],
+  "windowColor": [
+    255,
+    245,
+    240
+  ],
+  "id": "74VSvc",
+  "preview": {
+    "start": [
+      240,
+      130,
+      115
+    ],
+    "end": [
+      255,
+      180,
+      165
+    ],
+    "accent": [
+      240,
+      130,
+      115
+    ],
+    "background": [
+      255,
+      245,
+      240
+    ]
+  }
+}

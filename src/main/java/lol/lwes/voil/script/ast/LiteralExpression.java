@@ -1,0 +1,9 @@
+package lol.lwes.voil.script.ast;
+
+public final class LiteralExpression extends Expression {
+    public final Object value;
+
+    public LiteralExpression(Object value) {
+        this.value = value;
+    }
+}

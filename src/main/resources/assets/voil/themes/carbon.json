@@ -1,0 +1,159 @@
+{
+  "accentColor1": [
+    220,
+    130,
+    70
+  ],
+  "accentColor2": [
+    240,
+    160,
+    90
+  ],
+  "blue1Enable": 90,
+  "blueEnable": 70,
+  "checkboxB": 70,
+  "checkboxG": 130,
+  "checkboxR": 220,
+  "configEditBg": [
+    18,
+    18,
+    18
+  ],
+  "dark_id": "0af7L8",
+  "description": "Orange based awesome theme",
+  "enabled": [
+    220,
+    130,
+    70
+  ],
+  "glowEnabled": true,
+  "green1Enable": 160,
+  "greenEnable": 130,
+  "highlightColor": [
+    240,
+    160,
+    90
+  ],
+  "leftPanel": [
+    32,
+    32,
+    32
+  ],
+  "modeSettingBg": [
+    50,
+    48,
+    44
+  ],
+  "modeSettingFill": [
+    40,
+    38,
+    36
+  ],
+  "moduleBorder": [
+    38,
+    38,
+    38
+  ],
+  "moduleColor": [
+    42,
+    40,
+    38
+  ],
+  "moduleDisabledBg": [
+    40,
+    38,
+    36
+  ],
+  "moduleDisabledBgHover": [
+    42,
+    40,
+    38
+  ],
+  "moduleEnabledBg": [
+    40,
+    38,
+    36
+  ],
+  "moduleEnabledBgHover": [
+    60,
+    55,
+    50
+  ],
+  "moduleText": [
+    230,
+    210,
+    200
+  ],
+  "name": "Carbon",
+  "normalTextColor": [
+    240,
+    220,
+    210
+  ],
+  "outlineColor": [
+    48,
+    44,
+    40
+  ],
+  "red1Enable": 240,
+  "redEnable": 220,
+  "settingsBg": [
+    20,
+    20,
+    20
+  ],
+  "settingsHeader": [
+    48,
+    48,
+    48
+  ],
+  "sliderSettingBg": [
+    70,
+    65,
+    60
+  ],
+  "toggleButtonBg": [
+    220,
+    130,
+    70
+  ],
+  "toggleButtonFill": [
+    40,
+    38,
+    36
+  ],
+  "type": "dark",
+  "unfocusedTextColor": [
+    160,
+    140,
+    130
+  ],
+  "windowColor": [
+    22,
+    22,
+    22
+  ],
+  "id": "0af7L8",
+  "preview": {
+    "start": [
+      220,
+      130,
+      70
+    ],
+    "end": [
+      240,
+      160,
+      90
+    ],
+    "accent": [
+      220,
+      130,
+      70
+    ],
+    "background": [
+      22,
+      22,
+      22
+    ]
+  }
+}

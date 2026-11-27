@@ -1,0 +1,159 @@
+{
+  "accentColor1": [
+    240,
+    190,
+    100
+  ],
+  "accentColor2": [
+    250,
+    210,
+    130
+  ],
+  "blue1Enable": 130,
+  "blueEnable": 100,
+  "checkboxB": 100,
+  "checkboxG": 190,
+  "checkboxR": 240,
+  "configEditBg": [
+    90,
+    70,
+    40
+  ],
+  "dark_id": "SaXuD0",
+  "description": "Dark amber orange with golden highlights",
+  "enabled": [
+    240,
+    190,
+    100
+  ],
+  "glowEnabled": false,
+  "green1Enable": 210,
+  "greenEnable": 190,
+  "highlightColor": [
+    250,
+    210,
+    130
+  ],
+  "leftPanel": [
+    110,
+    90,
+    60
+  ],
+  "modeSettingBg": [
+    115,
+    95,
+    65
+  ],
+  "modeSettingFill": [
+    135,
+    115,
+    85
+  ],
+  "moduleBorder": [
+    120,
+    100,
+    70
+  ],
+  "moduleColor": [
+    100,
+    80,
+    50
+  ],
+  "moduleDisabledBg": [
+    105,
+    85,
+    55
+  ],
+  "moduleDisabledBgHover": [
+    110,
+    90,
+    60
+  ],
+  "moduleEnabledBg": [
+    115,
+    95,
+    65
+  ],
+  "moduleEnabledBgHover": [
+    135,
+    115,
+    85
+  ],
+  "moduleText": [
+    255,
+    230,
+    170
+  ],
+  "name": "Ember",
+  "normalTextColor": [
+    240,
+    210,
+    140
+  ],
+  "outlineColor": [
+    105,
+    85,
+    55
+  ],
+  "red1Enable": 250,
+  "redEnable": 240,
+  "settingsBg": [
+    100,
+    80,
+    50
+  ],
+  "settingsHeader": [
+    125,
+    105,
+    75
+  ],
+  "sliderSettingBg": [
+    110,
+    90,
+    60
+  ],
+  "toggleButtonBg": [
+    240,
+    190,
+    100
+  ],
+  "toggleButtonFill": [
+    90,
+    70,
+    40
+  ],
+  "type": "dark",
+  "unfocusedTextColor": [
+    210,
+    160,
+    90
+  ],
+  "windowColor": [
+    90,
+    70,
+    40
+  ],
+  "id": "SaXuD0",
+  "preview": {
+    "start": [
+      240,
+      190,
+      100
+    ],
+    "end": [
+      250,
+      210,
+      130
+    ],
+    "accent": [
+      240,
+      190,
+      100
+    ],
+    "background": [
+      90,
+      70,
+      40
+    ]
+  }
+}

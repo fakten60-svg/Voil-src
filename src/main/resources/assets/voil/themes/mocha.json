@@ -1,0 +1,159 @@
+{
+  "accentColor1": [
+    190,
+    180,
+    190
+  ],
+  "accentColor2": [
+    220,
+    210,
+    220
+  ],
+  "blue1Enable": 220,
+  "blueEnable": 190,
+  "checkboxB": 190,
+  "checkboxG": 180,
+  "checkboxR": 190,
+  "configEditBg": [
+    60,
+    50,
+    45
+  ],
+  "dark_id": "yi4B0w",
+  "description": "Soft dark brown with icy blue gray accents",
+  "enabled": [
+    190,
+    180,
+    190
+  ],
+  "glowEnabled": false,
+  "green1Enable": 210,
+  "greenEnable": 180,
+  "highlightColor": [
+    220,
+    210,
+    220
+  ],
+  "leftPanel": [
+    75,
+    65,
+    60
+  ],
+  "modeSettingBg": [
+    80,
+    70,
+    65
+  ],
+  "modeSettingFill": [
+    95,
+    85,
+    80
+  ],
+  "moduleBorder": [
+    80,
+    70,
+    65
+  ],
+  "moduleColor": [
+    65,
+    55,
+    50
+  ],
+  "moduleDisabledBg": [
+    75,
+    65,
+    60
+  ],
+  "moduleDisabledBgHover": [
+    75,
+    65,
+    60
+  ],
+  "moduleEnabledBg": [
+    80,
+    70,
+    65
+  ],
+  "moduleEnabledBgHover": [
+    95,
+    85,
+    80
+  ],
+  "moduleText": [
+    230,
+    220,
+    230
+  ],
+  "name": "Mocha",
+  "normalTextColor": [
+    220,
+    210,
+    220
+  ],
+  "outlineColor": [
+    75,
+    65,
+    60
+  ],
+  "red1Enable": 220,
+  "redEnable": 190,
+  "settingsBg": [
+    65,
+    55,
+    50
+  ],
+  "settingsHeader": [
+    85,
+    75,
+    70
+  ],
+  "sliderSettingBg": [
+    75,
+    65,
+    60
+  ],
+  "toggleButtonBg": [
+    190,
+    180,
+    190
+  ],
+  "toggleButtonFill": [
+    60,
+    50,
+    45
+  ],
+  "type": "dark",
+  "unfocusedTextColor": [
+    160,
+    150,
+    160
+  ],
+  "windowColor": [
+    60,
+    50,
+    45
+  ],
+  "id": "yi4B0w",
+  "preview": {
+    "start": [
+      190,
+      180,
+      190
+    ],
+    "end": [
+      220,
+      210,
+      220
+    ],
+    "accent": [
+      190,
+      180,
+      190
+    ],
+    "background": [
+      60,
+      50,
+      45
+    ]
+  }
+}

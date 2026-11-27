@@ -1,0 +1,159 @@
+{
+  "accentColor1": [
+    140,
+    170,
+    130
+  ],
+  "accentColor2": [
+    160,
+    190,
+    150
+  ],
+  "blue1Enable": 150,
+  "blueEnable": 130,
+  "checkboxB": 130,
+  "checkboxG": 170,
+  "checkboxR": 140,
+  "configEditBg": [
+    50,
+    60,
+    55
+  ],
+  "dark_id": "VL3PpF",
+  "description": "Neutral dark gray-green with mossy green highlights",
+  "enabled": [
+    140,
+    170,
+    130
+  ],
+  "glowEnabled": false,
+  "green1Enable": 190,
+  "greenEnable": 170,
+  "highlightColor": [
+    160,
+    190,
+    150
+  ],
+  "leftPanel": [
+    65,
+    75,
+    70
+  ],
+  "modeSettingBg": [
+    70,
+    80,
+    75
+  ],
+  "modeSettingFill": [
+    80,
+    90,
+    85
+  ],
+  "moduleBorder": [
+    70,
+    80,
+    75
+  ],
+  "moduleColor": [
+    55,
+    65,
+    60
+  ],
+  "moduleDisabledBg": [
+    65,
+    75,
+    70
+  ],
+  "moduleDisabledBgHover": [
+    65,
+    75,
+    70
+  ],
+  "moduleEnabledBg": [
+    70,
+    80,
+    75
+  ],
+  "moduleEnabledBgHover": [
+    80,
+    90,
+    85
+  ],
+  "moduleText": [
+    200,
+    220,
+    180
+  ],
+  "name": "Moss",
+  "normalTextColor": [
+    190,
+    210,
+    170
+  ],
+  "outlineColor": [
+    65,
+    75,
+    70
+  ],
+  "red1Enable": 160,
+  "redEnable": 140,
+  "settingsBg": [
+    55,
+    65,
+    60
+  ],
+  "settingsHeader": [
+    75,
+    85,
+    80
+  ],
+  "sliderSettingBg": [
+    65,
+    75,
+    70
+  ],
+  "toggleButtonBg": [
+    140,
+    170,
+    130
+  ],
+  "toggleButtonFill": [
+    50,
+    60,
+    55
+  ],
+  "type": "dark",
+  "unfocusedTextColor": [
+    130,
+    150,
+    120
+  ],
+  "windowColor": [
+    50,
+    60,
+    55
+  ],
+  "id": "VL3PpF",
+  "preview": {
+    "start": [
+      140,
+      170,
+      130
+    ],
+    "end": [
+      160,
+      190,
+      150
+    ],
+    "accent": [
+      140,
+      170,
+      130
+    ],
+    "background": [
+      50,
+      60,
+      55
+    ]
+  }
+}

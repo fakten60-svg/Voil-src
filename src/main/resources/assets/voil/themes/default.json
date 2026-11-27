@@ -1,0 +1,159 @@
+{
+  "accentColor1": [
+    121,
+    99,
+    145
+  ],
+  "accentColor2": [
+    179,
+    144,
+    215
+  ],
+  "blue1Enable": 94,
+  "blueEnable": 94,
+  "checkboxB": 94,
+  "checkboxG": 144,
+  "checkboxR": 0,
+  "configEditBg": [
+    20,
+    20,
+    25
+  ],
+  "dark_id": "yF8Etq",
+  "description": "Default dark and purple theme",
+  "enabled": [
+    120,
+    21,
+    178
+  ],
+  "glowEnabled": true,
+  "green1Enable": 144,
+  "greenEnable": 144,
+  "highlightColor": [
+    74,
+    23,
+    105
+  ],
+  "leftPanel": [
+    31,
+    30,
+    36
+  ],
+  "modeSettingBg": [
+    46,
+    45,
+    48
+  ],
+  "modeSettingFill": [
+    32,
+    31,
+    35
+  ],
+  "moduleBorder": [
+    36,
+    36,
+    42
+  ],
+  "moduleColor": [
+    30,
+    31,
+    36
+  ],
+  "moduleDisabledBg": [
+    32,
+    31,
+    33
+  ],
+  "moduleDisabledBgHover": [
+    35,
+    35,
+    35
+  ],
+  "moduleEnabledBg": [
+    32,
+    31,
+    33
+  ],
+  "moduleEnabledBgHover": [
+    43,
+    41,
+    45
+  ],
+  "moduleText": [
+    94,
+    95,
+    98
+  ],
+  "name": "Default",
+  "normalTextColor": [
+    255,
+    255,
+    255
+  ],
+  "outlineColor": [
+    38,
+    37,
+    43
+  ],
+  "red1Enable": 0,
+  "redEnable": 0,
+  "settingsBg": [
+    24,
+    23,
+    29
+  ],
+  "settingsHeader": [
+    39,
+    38,
+    42
+  ],
+  "sliderSettingBg": [
+    73,
+    72,
+    76
+  ],
+  "toggleButtonBg": [
+    90,
+    10,
+    134
+  ],
+  "toggleButtonFill": [
+    32,
+    31,
+    33
+  ],
+  "type": "dark",
+  "unfocusedTextColor": [
+    108,
+    109,
+    110
+  ],
+  "windowColor": [
+    24,
+    23,
+    29
+  ],
+  "id": "yF8Etq",
+  "preview": {
+    "start": [
+      121,
+      99,
+      145
+    ],
+    "end": [
+      179,
+      144,
+      215
+    ],
+    "accent": [
+      120,
+      21,
+      178
+    ],
+    "background": [
+      24,
+      23,
+      29
+    ]
+  }
+}

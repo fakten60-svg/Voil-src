@@ -1,0 +1,159 @@
+{
+  "accentColor1": [
+    140,
+    170,
+    140
+  ],
+  "accentColor2": [
+    160,
+    190,
+    160
+  ],
+  "blue1Enable": 160,
+  "blueEnable": 140,
+  "checkboxB": 140,
+  "checkboxG": 170,
+  "checkboxR": 140,
+  "configEditBg": [
+    55,
+    65,
+    60
+  ],
+  "dark_id": "tjdSi9",
+  "description": "White steel theme",
+  "enabled": [
+    140,
+    170,
+    140
+  ],
+  "glowEnabled": false,
+  "green1Enable": 190,
+  "greenEnable": 170,
+  "highlightColor": [
+    160,
+    190,
+    160
+  ],
+  "leftPanel": [
+    70,
+    80,
+    75
+  ],
+  "modeSettingBg": [
+    75,
+    85,
+    80
+  ],
+  "modeSettingFill": [
+    90,
+    100,
+    95
+  ],
+  "moduleBorder": [
+    75,
+    85,
+    80
+  ],
+  "moduleColor": [
+    60,
+    70,
+    65
+  ],
+  "moduleDisabledBg": [
+    70,
+    80,
+    75
+  ],
+  "moduleDisabledBgHover": [
+    70,
+    80,
+    75
+  ],
+  "moduleEnabledBg": [
+    75,
+    85,
+    80
+  ],
+  "moduleEnabledBgHover": [
+    90,
+    100,
+    95
+  ],
+  "moduleText": [
+    200,
+    220,
+    200
+  ],
+  "name": "Iron",
+  "normalTextColor": [
+    190,
+    210,
+    190
+  ],
+  "outlineColor": [
+    70,
+    80,
+    75
+  ],
+  "red1Enable": 160,
+  "redEnable": 140,
+  "settingsBg": [
+    60,
+    70,
+    65
+  ],
+  "settingsHeader": [
+    80,
+    90,
+    85
+  ],
+  "sliderSettingBg": [
+    70,
+    80,
+    75
+  ],
+  "toggleButtonBg": [
+    140,
+    170,
+    140
+  ],
+  "toggleButtonFill": [
+    55,
+    65,
+    60
+  ],
+  "type": "dark",
+  "unfocusedTextColor": [
+    130,
+    150,
+    130
+  ],
+  "windowColor": [
+    55,
+    65,
+    60
+  ],
+  "id": "tjdSi9",
+  "preview": {
+    "start": [
+      140,
+      170,
+      140
+    ],
+    "end": [
+      160,
+      190,
+      160
+    ],
+    "accent": [
+      140,
+      170,
+      140
+    ],
+    "background": [
+      55,
+      65,
+      60
+    ]
+  }
+}

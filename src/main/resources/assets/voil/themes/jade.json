@@ -1,0 +1,159 @@
+{
+  "accentColor1": [
+    140,
+    210,
+    190
+  ],
+  "accentColor2": [
+    160,
+    230,
+    210
+  ],
+  "blue1Enable": 210,
+  "blueEnable": 190,
+  "checkboxB": 190,
+  "checkboxG": 210,
+  "checkboxR": 140,
+  "configEditBg": [
+    40,
+    70,
+    65
+  ],
+  "dark_id": "n0kIp1",
+  "description": "Dark teal with soft mint and gray undertones",
+  "enabled": [
+    140,
+    210,
+    190
+  ],
+  "glowEnabled": false,
+  "green1Enable": 230,
+  "greenEnable": 210,
+  "highlightColor": [
+    160,
+    230,
+    210
+  ],
+  "leftPanel": [
+    55,
+    85,
+    80
+  ],
+  "modeSettingBg": [
+    65,
+    90,
+    85
+  ],
+  "modeSettingFill": [
+    80,
+    105,
+    100
+  ],
+  "moduleBorder": [
+    65,
+    90,
+    85
+  ],
+  "moduleColor": [
+    50,
+    75,
+    70
+  ],
+  "moduleDisabledBg": [
+    60,
+    85,
+    80
+  ],
+  "moduleDisabledBgHover": [
+    55,
+    85,
+    80
+  ],
+  "moduleEnabledBg": [
+    65,
+    90,
+    85
+  ],
+  "moduleEnabledBgHover": [
+    80,
+    105,
+    100
+  ],
+  "moduleText": [
+    190,
+    240,
+    220
+  ],
+  "name": "Jade",
+  "normalTextColor": [
+    180,
+    230,
+    210
+  ],
+  "outlineColor": [
+    60,
+    85,
+    80
+  ],
+  "red1Enable": 160,
+  "redEnable": 140,
+  "settingsBg": [
+    50,
+    75,
+    70
+  ],
+  "settingsHeader": [
+    70,
+    95,
+    90
+  ],
+  "sliderSettingBg": [
+    60,
+    85,
+    80
+  ],
+  "toggleButtonBg": [
+    140,
+    210,
+    190
+  ],
+  "toggleButtonFill": [
+    40,
+    70,
+    65
+  ],
+  "type": "dark",
+  "unfocusedTextColor": [
+    130,
+    190,
+    170
+  ],
+  "windowColor": [
+    40,
+    70,
+    65
+  ],
+  "id": "n0kIp1",
+  "preview": {
+    "start": [
+      140,
+      210,
+      190
+    ],
+    "end": [
+      160,
+      230,
+      210
+    ],
+    "accent": [
+      140,
+      210,
+      190
+    ],
+    "background": [
+      40,
+      70,
+      65
+    ]
+  }
+}

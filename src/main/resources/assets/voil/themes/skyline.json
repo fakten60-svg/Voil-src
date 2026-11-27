@@ -1,0 +1,159 @@
+{
+  "accentColor1": [
+    100,
+    140,
+    210
+  ],
+  "accentColor2": [
+    130,
+    180,
+    230
+  ],
+  "blue1Enable": 230,
+  "blueEnable": 210,
+  "checkboxB": 210,
+  "checkboxG": 140,
+  "checkboxR": 100,
+  "configEditBg": [
+    230,
+    240,
+    255
+  ],
+  "description": "Sky colors",
+  "enabled": [
+    100,
+    140,
+    210
+  ],
+  "glowEnabled": false,
+  "green1Enable": 180,
+  "greenEnable": 140,
+  "highlightColor": [
+    130,
+    180,
+    230
+  ],
+  "leftPanel": [
+    210,
+    220,
+    240
+  ],
+  "light_id": "cgIWoX",
+  "modeSettingBg": [
+    195,
+    215,
+    240
+  ],
+  "modeSettingFill": [
+    200,
+    220,
+    245
+  ],
+  "moduleBorder": [
+    160,
+    180,
+    210
+  ],
+  "moduleColor": [
+    160,
+    180,
+    210
+  ],
+  "moduleDisabledBg": [
+    185,
+    205,
+    230
+  ],
+  "moduleDisabledBgHover": [
+    190,
+    210,
+    235
+  ],
+  "moduleEnabledBg": [
+    195,
+    215,
+    240
+  ],
+  "moduleEnabledBgHover": [
+    200,
+    220,
+    245
+  ],
+  "moduleText": [
+    60,
+    80,
+    140
+  ],
+  "name": "Skyline",
+  "normalTextColor": [
+    60,
+    90,
+    150
+  ],
+  "outlineColor": [
+    160,
+    180,
+    210
+  ],
+  "red1Enable": 130,
+  "redEnable": 100,
+  "settingsBg": [
+    225,
+    235,
+    250
+  ],
+  "settingsHeader": [
+    190,
+    210,
+    235
+  ],
+  "sliderSettingBg": [
+    160,
+    180,
+    210
+  ],
+  "toggleButtonBg": [
+    100,
+    140,
+    210
+  ],
+  "toggleButtonFill": [
+    230,
+    240,
+    255
+  ],
+  "type": "light",
+  "unfocusedTextColor": [
+    70,
+    100,
+    150
+  ],
+  "windowColor": [
+    230,
+    240,
+    255
+  ],
+  "id": "cgIWoX",
+  "preview": {
+    "start": [
+      100,
+      140,
+      210
+    ],
+    "end": [
+      130,
+      180,
+      230
+    ],
+    "accent": [
+      100,
+      140,
+      210
+    ],
+    "background": [
+      230,
+      240,
+      255
+    ]
+  }
+}

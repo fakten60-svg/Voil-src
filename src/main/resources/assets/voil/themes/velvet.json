@@ -1,0 +1,159 @@
+{
+  "accentColor1": [
+    180,
+    140,
+    160
+  ],
+  "accentColor2": [
+    200,
+    170,
+    190
+  ],
+  "blue1Enable": 190,
+  "blueEnable": 160,
+  "checkboxB": 160,
+  "checkboxG": 140,
+  "checkboxR": 180,
+  "configEditBg": [
+    50,
+    40,
+    55
+  ],
+  "dark_id": "qZsMfl",
+  "description": "Pink-red based stale theme",
+  "enabled": [
+    180,
+    140,
+    160
+  ],
+  "glowEnabled": false,
+  "green1Enable": 170,
+  "greenEnable": 140,
+  "highlightColor": [
+    200,
+    170,
+    190
+  ],
+  "leftPanel": [
+    65,
+    55,
+    70
+  ],
+  "modeSettingBg": [
+    70,
+    60,
+    75
+  ],
+  "modeSettingFill": [
+    85,
+    70,
+    85
+  ],
+  "moduleBorder": [
+    70,
+    60,
+    75
+  ],
+  "moduleColor": [
+    55,
+    45,
+    60
+  ],
+  "moduleDisabledBg": [
+    60,
+    50,
+    65
+  ],
+  "moduleDisabledBgHover": [
+    65,
+    55,
+    70
+  ],
+  "moduleEnabledBg": [
+    70,
+    60,
+    75
+  ],
+  "moduleEnabledBgHover": [
+    85,
+    70,
+    85
+  ],
+  "moduleText": [
+    220,
+    190,
+    210
+  ],
+  "name": "Velvet",
+  "normalTextColor": [
+    210,
+    180,
+    200
+  ],
+  "outlineColor": [
+    60,
+    50,
+    65
+  ],
+  "red1Enable": 200,
+  "redEnable": 180,
+  "settingsBg": [
+    55,
+    45,
+    60
+  ],
+  "settingsHeader": [
+    75,
+    65,
+    80
+  ],
+  "sliderSettingBg": [
+    65,
+    55,
+    70
+  ],
+  "toggleButtonBg": [
+    180,
+    140,
+    160
+  ],
+  "toggleButtonFill": [
+    50,
+    40,
+    55
+  ],
+  "type": "dark",
+  "unfocusedTextColor": [
+    150,
+    130,
+    140
+  ],
+  "windowColor": [
+    50,
+    40,
+    55
+  ],
+  "id": "qZsMfl",
+  "preview": {
+    "start": [
+      180,
+      140,
+      160
+    ],
+    "end": [
+      200,
+      170,
+      190
+    ],
+    "accent": [
+      180,
+      140,
+      160
+    ],
+    "background": [
+      50,
+      40,
+      55
+    ]
+  }
+}

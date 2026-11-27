@@ -1,0 +1,159 @@
+{
+  "accentColor1": [
+    190,
+    160,
+    130
+  ],
+  "accentColor2": [
+    220,
+    190,
+    160
+  ],
+  "blue1Enable": 160,
+  "blueEnable": 130,
+  "checkboxB": 130,
+  "checkboxG": 160,
+  "checkboxR": 190,
+  "configEditBg": [
+    245,
+    235,
+    220
+  ],
+  "description": "Almond like light yellow",
+  "enabled": [
+    190,
+    160,
+    130
+  ],
+  "glowEnabled": false,
+  "green1Enable": 190,
+  "greenEnable": 160,
+  "highlightColor": [
+    220,
+    190,
+    160
+  ],
+  "leftPanel": [
+    230,
+    220,
+    205
+  ],
+  "light_id": "5XWtdn",
+  "modeSettingBg": [
+    220,
+    200,
+    175
+  ],
+  "modeSettingFill": [
+    225,
+    205,
+    180
+  ],
+  "moduleBorder": [
+    200,
+    180,
+    150
+  ],
+  "moduleColor": [
+    190,
+    170,
+    145
+  ],
+  "moduleDisabledBg": [
+    210,
+    190,
+    165
+  ],
+  "moduleDisabledBgHover": [
+    215,
+    195,
+    170
+  ],
+  "moduleEnabledBg": [
+    220,
+    200,
+    175
+  ],
+  "moduleEnabledBgHover": [
+    225,
+    205,
+    180
+  ],
+  "moduleText": [
+    90,
+    70,
+    50
+  ],
+  "name": "Almond",
+  "normalTextColor": [
+    100,
+    80,
+    60
+  ],
+  "outlineColor": [
+    200,
+    180,
+    150
+  ],
+  "red1Enable": 220,
+  "redEnable": 190,
+  "settingsBg": [
+    240,
+    230,
+    215
+  ],
+  "settingsHeader": [
+    215,
+    195,
+    170
+  ],
+  "sliderSettingBg": [
+    200,
+    180,
+    155
+  ],
+  "toggleButtonBg": [
+    190,
+    160,
+    130
+  ],
+  "toggleButtonFill": [
+    245,
+    235,
+    220
+  ],
+  "type": "light",
+  "unfocusedTextColor": [
+    110,
+    90,
+    70
+  ],
+  "windowColor": [
+    245,
+    235,
+    220
+  ],
+  "id": "5XWtdn",
+  "preview": {
+    "start": [
+      190,
+      160,
+      130
+    ],
+    "end": [
+      220,
+      190,
+      160
+    ],
+    "accent": [
+      190,
+      160,
+      130
+    ],
+    "background": [
+      245,
+      235,
+      220
+    ]
+  }
+}

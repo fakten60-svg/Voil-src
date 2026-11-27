@@ -1,0 +1,159 @@
+{
+  "accentColor1": [
+    140,
+    160,
+    130
+  ],
+  "accentColor2": [
+    170,
+    190,
+    160
+  ],
+  "blue1Enable": 160,
+  "blueEnable": 130,
+  "checkboxB": 130,
+  "checkboxG": 160,
+  "checkboxR": 140,
+  "configEditBg": [
+    240,
+    245,
+    240
+  ],
+  "description": "Earthy green colors",
+  "enabled": [
+    140,
+    160,
+    130
+  ],
+  "glowEnabled": false,
+  "green1Enable": 190,
+  "greenEnable": 160,
+  "highlightColor": [
+    170,
+    190,
+    160
+  ],
+  "leftPanel": [
+    230,
+    235,
+    230
+  ],
+  "light_id": "avDWiW",
+  "modeSettingBg": [
+    220,
+    230,
+    210
+  ],
+  "modeSettingFill": [
+    215,
+    225,
+    205
+  ],
+  "moduleBorder": [
+    200,
+    210,
+    190
+  ],
+  "moduleColor": [
+    200,
+    210,
+    190
+  ],
+  "moduleDisabledBg": [
+    215,
+    225,
+    205
+  ],
+  "moduleDisabledBgHover": [
+    215,
+    225,
+    205
+  ],
+  "moduleEnabledBg": [
+    220,
+    230,
+    210
+  ],
+  "moduleEnabledBgHover": [
+    220,
+    230,
+    210
+  ],
+  "moduleText": [
+    80,
+    90,
+    70
+  ],
+  "name": "Pale",
+  "normalTextColor": [
+    70,
+    90,
+    70
+  ],
+  "outlineColor": [
+    200,
+    210,
+    190
+  ],
+  "red1Enable": 170,
+  "redEnable": 140,
+  "settingsBg": [
+    235,
+    240,
+    235
+  ],
+  "settingsHeader": [
+    210,
+    220,
+    200
+  ],
+  "sliderSettingBg": [
+    190,
+    200,
+    180
+  ],
+  "toggleButtonBg": [
+    140,
+    160,
+    130
+  ],
+  "toggleButtonFill": [
+    240,
+    245,
+    240
+  ],
+  "type": "light",
+  "unfocusedTextColor": [
+    70,
+    90,
+    70
+  ],
+  "windowColor": [
+    240,
+    245,
+    240
+  ],
+  "id": "avDWiW",
+  "preview": {
+    "start": [
+      140,
+      160,
+      130
+    ],
+    "end": [
+      170,
+      190,
+      160
+    ],
+    "accent": [
+      140,
+      160,
+      130
+    ],
+    "background": [
+      240,
+      245,
+      240
+    ]
+  }
+}

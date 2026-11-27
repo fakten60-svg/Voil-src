@@ -1,0 +1,159 @@
+{
+  "accentColor1": [
+    30,
+    110,
+    130
+  ],
+  "accentColor2": [
+    60,
+    140,
+    160
+  ],
+  "blue1Enable": 160,
+  "blueEnable": 130,
+  "checkboxB": 130,
+  "checkboxG": 110,
+  "checkboxR": 30,
+  "configEditBg": [
+    220,
+    245,
+    245
+  ],
+  "description": "Ocean colored theme",
+  "enabled": [
+    30,
+    110,
+    130
+  ],
+  "glowEnabled": false,
+  "green1Enable": 140,
+  "greenEnable": 110,
+  "highlightColor": [
+    60,
+    140,
+    160
+  ],
+  "leftPanel": [
+    200,
+    230,
+    230
+  ],
+  "light_id": "TEu41M",
+  "modeSettingBg": [
+    175,
+    225,
+    225
+  ],
+  "modeSettingFill": [
+    180,
+    230,
+    230
+  ],
+  "moduleBorder": [
+    140,
+    200,
+    200
+  ],
+  "moduleColor": [
+    140,
+    200,
+    200
+  ],
+  "moduleDisabledBg": [
+    165,
+    215,
+    215
+  ],
+  "moduleDisabledBgHover": [
+    170,
+    220,
+    220
+  ],
+  "moduleEnabledBg": [
+    175,
+    225,
+    225
+  ],
+  "moduleEnabledBgHover": [
+    180,
+    230,
+    230
+  ],
+  "moduleText": [
+    20,
+    70,
+    90
+  ],
+  "name": "Feather",
+  "normalTextColor": [
+    30,
+    70,
+    90
+  ],
+  "outlineColor": [
+    140,
+    200,
+    200
+  ],
+  "red1Enable": 60,
+  "redEnable": 30,
+  "settingsBg": [
+    215,
+    240,
+    240
+  ],
+  "settingsHeader": [
+    160,
+    215,
+    215
+  ],
+  "sliderSettingBg": [
+    140,
+    200,
+    200
+  ],
+  "toggleButtonBg": [
+    30,
+    110,
+    130
+  ],
+  "toggleButtonFill": [
+    220,
+    245,
+    245
+  ],
+  "type": "light",
+  "unfocusedTextColor": [
+    50,
+    90,
+    110
+  ],
+  "windowColor": [
+    220,
+    245,
+    245
+  ],
+  "id": "TEu41M",
+  "preview": {
+    "start": [
+      30,
+      110,
+      130
+    ],
+    "end": [
+      60,
+      140,
+      160
+    ],
+    "accent": [
+      30,
+      110,
+      130
+    ],
+    "background": [
+      220,
+      245,
+      245
+    ]
+  }
+}

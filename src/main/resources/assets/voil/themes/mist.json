@@ -1,0 +1,159 @@
+{
+  "accentColor1": [
+    230,
+    190,
+    170
+  ],
+  "accentColor2": [
+    250,
+    210,
+    190
+  ],
+  "blue1Enable": 190,
+  "blueEnable": 170,
+  "checkboxB": 170,
+  "checkboxG": 190,
+  "checkboxR": 230,
+  "configEditBg": [
+    75,
+    55,
+    45
+  ],
+  "dark_id": "EZbKUU",
+  "description": "Warm mocha browns with creamy soft accents",
+  "enabled": [
+    230,
+    190,
+    170
+  ],
+  "glowEnabled": false,
+  "green1Enable": 210,
+  "greenEnable": 190,
+  "highlightColor": [
+    250,
+    210,
+    190
+  ],
+  "leftPanel": [
+    95,
+    70,
+    60
+  ],
+  "modeSettingBg": [
+    100,
+    75,
+    65
+  ],
+  "modeSettingFill": [
+    115,
+    90,
+    80
+  ],
+  "moduleBorder": [
+    100,
+    75,
+    65
+  ],
+  "moduleColor": [
+    85,
+    65,
+    55
+  ],
+  "moduleDisabledBg": [
+    90,
+    70,
+    60
+  ],
+  "moduleDisabledBgHover": [
+    95,
+    70,
+    60
+  ],
+  "moduleEnabledBg": [
+    100,
+    75,
+    65
+  ],
+  "moduleEnabledBgHover": [
+    115,
+    90,
+    80
+  ],
+  "moduleText": [
+    255,
+    230,
+    210
+  ],
+  "name": "Mist",
+  "normalTextColor": [
+    245,
+    210,
+    190
+  ],
+  "outlineColor": [
+    90,
+    70,
+    60
+  ],
+  "red1Enable": 250,
+  "redEnable": 230,
+  "settingsBg": [
+    85,
+    65,
+    55
+  ],
+  "settingsHeader": [
+    105,
+    80,
+    70
+  ],
+  "sliderSettingBg": [
+    95,
+    70,
+    60
+  ],
+  "toggleButtonBg": [
+    230,
+    190,
+    170
+  ],
+  "toggleButtonFill": [
+    75,
+    55,
+    45
+  ],
+  "type": "dark",
+  "unfocusedTextColor": [
+    200,
+    160,
+    140
+  ],
+  "windowColor": [
+    75,
+    55,
+    45
+  ],
+  "id": "EZbKUU",
+  "preview": {
+    "start": [
+      230,
+      190,
+      170
+    ],
+    "end": [
+      250,
+      210,
+      190
+    ],
+    "accent": [
+      230,
+      190,
+      170
+    ],
+    "background": [
+      75,
+      55,
+      45
+    ]
+  }
+}

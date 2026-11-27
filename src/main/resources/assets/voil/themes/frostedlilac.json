@@ -1,0 +1,159 @@
+{
+  "accentColor1": [
+    180,
+    160,
+    210
+  ],
+  "accentColor2": [
+    210,
+    190,
+    240
+  ],
+  "blue1Enable": 240,
+  "blueEnable": 210,
+  "checkboxB": 210,
+  "checkboxG": 160,
+  "checkboxR": 180,
+  "configEditBg": [
+    245,
+    245,
+    250
+  ],
+  "description": "Lilac with more icey colors",
+  "enabled": [
+    180,
+    160,
+    210
+  ],
+  "glowEnabled": false,
+  "green1Enable": 190,
+  "greenEnable": 160,
+  "highlightColor": [
+    210,
+    190,
+    240
+  ],
+  "leftPanel": [
+    235,
+    230,
+    240
+  ],
+  "light_id": "fMwSK4",
+  "modeSettingBg": [
+    215,
+    205,
+    235
+  ],
+  "modeSettingFill": [
+    220,
+    210,
+    240
+  ],
+  "moduleBorder": [
+    190,
+    180,
+    210
+  ],
+  "moduleColor": [
+    190,
+    180,
+    210
+  ],
+  "moduleDisabledBg": [
+    205,
+    195,
+    225
+  ],
+  "moduleDisabledBgHover": [
+    210,
+    200,
+    230
+  ],
+  "moduleEnabledBg": [
+    215,
+    205,
+    235
+  ],
+  "moduleEnabledBgHover": [
+    220,
+    210,
+    240
+  ],
+  "moduleText": [
+    90,
+    80,
+    140
+  ],
+  "name": "FrostedLilac",
+  "normalTextColor": [
+    100,
+    90,
+    150
+  ],
+  "outlineColor": [
+    190,
+    180,
+    210
+  ],
+  "red1Enable": 210,
+  "redEnable": 180,
+  "settingsBg": [
+    245,
+    240,
+    250
+  ],
+  "settingsHeader": [
+    210,
+    200,
+    230
+  ],
+  "sliderSettingBg": [
+    190,
+    180,
+    210
+  ],
+  "toggleButtonBg": [
+    180,
+    160,
+    210
+  ],
+  "toggleButtonFill": [
+    245,
+    245,
+    250
+  ],
+  "type": "light",
+  "unfocusedTextColor": [
+    110,
+    100,
+    150
+  ],
+  "windowColor": [
+    245,
+    245,
+    250
+  ],
+  "id": "fMwSK4",
+  "preview": {
+    "start": [
+      180,
+      160,
+      210
+    ],
+    "end": [
+      210,
+      190,
+      240
+    ],
+    "accent": [
+      180,
+      160,
+      210
+    ],
+    "background": [
+      245,
+      245,
+      250
+    ]
+  }
+}

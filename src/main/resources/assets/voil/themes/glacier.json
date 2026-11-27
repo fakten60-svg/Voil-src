@@ -1,0 +1,159 @@
+{
+  "accentColor1": [
+    120,
+    240,
+    255
+  ],
+  "accentColor2": [
+    160,
+    255,
+    255
+  ],
+  "blue1Enable": 255,
+  "blueEnable": 255,
+  "checkboxB": 255,
+  "checkboxG": 240,
+  "checkboxR": 100,
+  "configEditBg": [
+    8,
+    12,
+    16
+  ],
+  "dark_id": "1TREsT",
+  "description": "Cold ice theme",
+  "enabled": [
+    100,
+    210,
+    255
+  ],
+  "glowEnabled": true,
+  "green1Enable": 220,
+  "greenEnable": 170,
+  "highlightColor": [
+    80,
+    200,
+    255
+  ],
+  "leftPanel": [
+    15,
+    20,
+    26
+  ],
+  "modeSettingBg": [
+    40,
+    50,
+    60
+  ],
+  "modeSettingFill": [
+    24,
+    34,
+    40
+  ],
+  "moduleBorder": [
+    20,
+    28,
+    36
+  ],
+  "moduleColor": [
+    25,
+    34,
+    42
+  ],
+  "moduleDisabledBg": [
+    20,
+    30,
+    38
+  ],
+  "moduleDisabledBgHover": [
+    26,
+    36,
+    44
+  ],
+  "moduleEnabledBg": [
+    20,
+    30,
+    38
+  ],
+  "moduleEnabledBgHover": [
+    36,
+    48,
+    60
+  ],
+  "moduleText": [
+    210,
+    240,
+    255
+  ],
+  "name": "Glacier",
+  "normalTextColor": [
+    235,
+    255,
+    255
+  ],
+  "outlineColor": [
+    36,
+    50,
+    60
+  ],
+  "red1Enable": 80,
+  "redEnable": 0,
+  "settingsBg": [
+    12,
+    18,
+    24
+  ],
+  "settingsHeader": [
+    30,
+    40,
+    48
+  ],
+  "sliderSettingBg": [
+    60,
+    90,
+    110
+  ],
+  "toggleButtonBg": [
+    90,
+    220,
+    255
+  ],
+  "toggleButtonFill": [
+    20,
+    30,
+    38
+  ],
+  "type": "dark",
+  "unfocusedTextColor": [
+    120,
+    150,
+    170
+  ],
+  "windowColor": [
+    10,
+    15,
+    20
+  ],
+  "id": "1TREsT",
+  "preview": {
+    "start": [
+      120,
+      240,
+      255
+    ],
+    "end": [
+      160,
+      255,
+      255
+    ],
+    "accent": [
+      100,
+      210,
+      255
+    ],
+    "background": [
+      10,
+      15,
+      20
+    ]
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "accentColor1": [
+    200,
+    80,
+    140
+  ],
+  "accentColor2": [
+    240,
+    120,
+    170
+  ],
+  "configEditBg": [
+    24,
+    16,
+    24
+  ],
+  "dark_id": "1SYb5U",
+  "description": "Rose like obsidian theme",
+  "enabled": [
+    190,
+    60,
+    120
+  ],
+  "glowEnabled": true,
+  "highlightColor": [
+    220,
+    90,
+    150
+  ],
+  "leftPanel": [
+    34,
+    26,
+    30
+  ],
+  "modeSettingBg": [
+    32,
+    24,
+    30
+  ],
+  "modeSettingFill": [
+    30,
+    22,
+    28
+  ],
+  "moduleBorder": [
+    36,
+    28,
+    34
+  ],
+  "moduleColor": [
+    28,
+    20,
+    26
+  ],
+  "moduleDisabledBg": [
+    30,
+    22,
+    28
+  ],
+  "moduleDisabledBgHover": [
+    32,
+    24,
+    30
+  ],
+  "moduleEnabledBg": [
+    30,
+    22,
+    28
+  ],
+  "moduleEnabledBgHover": [
+    40,
+    32,
+    38
+  ],
+  "moduleText": [
+    230,
+    190,
+    210
+  ],
+  "name": "Obsidian",
+  "normalTextColor": [
+    250,
+    220,
+    240
+  ],
+  "outlineColor": [
+    36,
+    28,
+    34
+  ],
+  "settingsBg": [
+    28,
+    20,
+    26
+  ],
+  "settingsHeader": [
+    38,
+    30,
+    36
+  ],
+  "sliderSettingBg": [
+    40,
+    32,
+    38
+  ],
+  "toggleButtonBg": [
+    190,
+    60,
+    120
+  ],
+  "toggleButtonFill": [
+    30,
+    22,
+    28
+  ],
+  "type": "dark",
+  "unfocusedTextColor": [
+    140,
+    120,
+    130
+  ],
+  "windowColor": [
+    28,
+    20,
+    26
+  ],
+  "id": "1SYb5U",
+  "preview": {
+    "start": [
+      200,
+      80,
+      140
+    ],
+    "end": [
+      240,
+      120,
+      170
+    ],
+    "accent": [
+      190,
+      60,
+      120
+    ],
+    "background": [
+      28,
+      20,
+      26
+    ]
+  }
+}

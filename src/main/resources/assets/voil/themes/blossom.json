@@ -1,0 +1,159 @@
+{
+  "accentColor1": [
+    230,
+    150,
+    130
+  ],
+  "accentColor2": [
+    245,
+    190,
+    170
+  ],
+  "blue1Enable": 170,
+  "blueEnable": 130,
+  "checkboxB": 130,
+  "checkboxG": 150,
+  "checkboxR": 230,
+  "configEditBg": [
+    255,
+    245,
+    235
+  ],
+  "description": "Gold colored blossoms",
+  "enabled": [
+    230,
+    150,
+    130
+  ],
+  "glowEnabled": false,
+  "green1Enable": 190,
+  "greenEnable": 150,
+  "highlightColor": [
+    245,
+    190,
+    170
+  ],
+  "leftPanel": [
+    250,
+    235,
+    220
+  ],
+  "light_id": "Jdc40n",
+  "modeSettingBg": [
+    240,
+    205,
+    185
+  ],
+  "modeSettingFill": [
+    245,
+    210,
+    190
+  ],
+  "moduleBorder": [
+    220,
+    180,
+    160
+  ],
+  "moduleColor": [
+    220,
+    180,
+    160
+  ],
+  "moduleDisabledBg": [
+    230,
+    195,
+    175
+  ],
+  "moduleDisabledBgHover": [
+    240,
+    200,
+    180
+  ],
+  "moduleEnabledBg": [
+    240,
+    205,
+    185
+  ],
+  "moduleEnabledBgHover": [
+    245,
+    210,
+    190
+  ],
+  "moduleText": [
+    100,
+    60,
+    55
+  ],
+  "name": "Blossom",
+  "normalTextColor": [
+    110,
+    65,
+    60
+  ],
+  "outlineColor": [
+    210,
+    170,
+    150
+  ],
+  "red1Enable": 245,
+  "redEnable": 230,
+  "settingsBg": [
+    255,
+    240,
+    225
+  ],
+  "settingsHeader": [
+    235,
+    195,
+    175
+  ],
+  "sliderSettingBg": [
+    220,
+    180,
+    160
+  ],
+  "toggleButtonBg": [
+    230,
+    150,
+    130
+  ],
+  "toggleButtonFill": [
+    255,
+    245,
+    235
+  ],
+  "type": "light",
+  "unfocusedTextColor": [
+    160,
+    120,
+    110
+  ],
+  "windowColor": [
+    255,
+    245,
+    235
+  ],
+  "id": "Jdc40n",
+  "preview": {
+    "start": [
+      230,
+      150,
+      130
+    ],
+    "end": [
+      245,
+      190,
+      170
+    ],
+    "accent": [
+      230,
+      150,
+      130
+    ],
+    "background": [
+      255,
+      245,
+      235
+    ]
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "accentColor1": [
+    140,
+    170,
+    210
+  ],
+  "accentColor2": [
+    180,
+    210,
+    240
+  ],
+  "blue1Enable": 240,
+  "blueEnable": 210,
+  "checkboxB": 210,
+  "checkboxG": 170,
+  "checkboxR": 140,
+  "configEditBg": [
+    245,
+    250,
+    255
+  ],
+  "description": "Blue icey alpine colors",
+  "enabled": [
+    140,
+    170,
+    210
+  ],
+  "glowEnabled": false,
+  "green1Enable": 210,
+  "greenEnable": 170,
+  "highlightColor": [
+    180,
+    210,
+    240
+  ],
+  "leftPanel": [
+    235,
+    245,
+    255
+  ],
+  "light_id": "FmwUpN",
+  "modeSettingBg": [
+    215,
+    230,
+    250
+  ],
+  "modeSettingFill": [
+    210,
+    225,
+    245
+  ],
+  "moduleBorder": [
+    190,
+    210,
+    230
+  ],
+  "moduleColor": [
+    190,
+    210,
+    230
+  ],
+  "moduleDisabledBg": [
+    205,
+    220,
+    240
+  ],
+  "moduleDisabledBgHover": [
+    210,
+    225,
+    245
+  ],
+  "moduleEnabledBg": [
+    215,
+    230,
+    250
+  ],
+  "moduleEnabledBgHover": [
+    220,
+    235,
+    255
+  ],
+  "moduleText": [
+    80,
+    100,
+    140
+  ],
+  "name": "Alpine",
+  "normalTextColor": [
+    90,
+    110,
+    150
+  ],
+  "outlineColor": [
+    190,
+    210,
+    230
+  ],
+  "red1Enable": 180,
+  "redEnable": 140,
+  "settingsBg": [
+    245,
+    250,
+    255
+  ],
+  "settingsHeader": [
+    210,
+    230,
+    250
+  ],
+  "sliderSettingBg": [
+    190,
+    210,
+    230
+  ],
+  "toggleButtonBg": [
+    140,
+    170,
+    210
+  ],
+  "toggleButtonFill": [
+    245,
+    250,
+    255
+  ],
+  "type": "light",
+  "unfocusedTextColor": [
+    90,
+    110,
+    150
+  ],
+  "windowColor": [
+    245,
+    250,
+    255
+  ],
+  "id": "FmwUpN",
+  "preview": {
+    "start": [
+      140,
+      170,
+      210
+    ],
+    "end": [
+      180,
+      210,
+      240
+    ],
+    "accent": [
+      140,
+      170,
+      210
+    ],
+    "background": [
+      245,
+      250,
+      255
+    ]
+  }
+}

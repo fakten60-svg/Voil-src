@@ -1,0 +1,31 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "dev.prestigeclient.renderlib.impl.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "BatchingRenderCommandQueueMixin",
+    "EntityRenderDispatchMixin",
+    "EntityRenderManagerMixin",
+    "EntityTrackerMixin",
+    "GameRendererMixin",
+    "GuiRendererAccessor",
+    "HeldItemRendererMixin",
+    "ItemRendererMixin",
+    "LifecycledResourceManagerImplMixin",
+    "MinecraftClientMixin",
+    "ModelPartCommandRendererMixin",
+    "NamespaceResourceManagerMixin",
+    "OutlineSupplyingMixin",
+    "ProjectionMatrix2Accessor",
+    "ProjectionMatrix3Accessor",
+    "ReloadableResourceManagerImplMixin",
+    "RenderLayerMixin",
+    "ResourceManagerMixin",
+    "WindowMixin",
+    "WorldRendererMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 0
+  }
+}

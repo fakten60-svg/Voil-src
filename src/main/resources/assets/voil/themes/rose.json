@@ -1,0 +1,159 @@
+{
+  "accentColor1": [
+    230,
+    160,
+    180
+  ],
+  "accentColor2": [
+    250,
+    180,
+    200
+  ],
+  "blue1Enable": 200,
+  "blueEnable": 180,
+  "checkboxB": 180,
+  "checkboxG": 160,
+  "checkboxR": 230,
+  "configEditBg": [
+    80,
+    55,
+    65
+  ],
+  "dark_id": "k3ZrMH",
+  "description": "Muted dusty rose with soft pink highlights",
+  "enabled": [
+    230,
+    160,
+    180
+  ],
+  "glowEnabled": false,
+  "green1Enable": 180,
+  "greenEnable": 160,
+  "highlightColor": [
+    250,
+    180,
+    200
+  ],
+  "leftPanel": [
+    95,
+    70,
+    80
+  ],
+  "modeSettingBg": [
+    100,
+    75,
+    85
+  ],
+  "modeSettingFill": [
+    115,
+    90,
+    100
+  ],
+  "moduleBorder": [
+    100,
+    75,
+    85
+  ],
+  "moduleColor": [
+    85,
+    60,
+    70
+  ],
+  "moduleDisabledBg": [
+    90,
+    70,
+    80
+  ],
+  "moduleDisabledBgHover": [
+    95,
+    70,
+    80
+  ],
+  "moduleEnabledBg": [
+    100,
+    75,
+    85
+  ],
+  "moduleEnabledBgHover": [
+    115,
+    90,
+    100
+  ],
+  "moduleText": [
+    255,
+    210,
+    230
+  ],
+  "name": "Rose",
+  "normalTextColor": [
+    245,
+    190,
+    210
+  ],
+  "outlineColor": [
+    90,
+    70,
+    80
+  ],
+  "red1Enable": 250,
+  "redEnable": 230,
+  "settingsBg": [
+    85,
+    60,
+    70
+  ],
+  "settingsHeader": [
+    105,
+    80,
+    90
+  ],
+  "sliderSettingBg": [
+    95,
+    70,
+    80
+  ],
+  "toggleButtonBg": [
+    230,
+    160,
+    180
+  ],
+  "toggleButtonFill": [
+    80,
+    55,
+    65
+  ],
+  "type": "dark",
+  "unfocusedTextColor": [
+    200,
+    140,
+    160
+  ],
+  "windowColor": [
+    80,
+    55,
+    65
+  ],
+  "id": "k3ZrMH",
+  "preview": {
+    "start": [
+      230,
+      160,
+      180
+    ],
+    "end": [
+      250,
+      180,
+      200
+    ],
+    "accent": [
+      230,
+      160,
+      180
+    ],
+    "background": [
+      80,
+      55,
+      65
+    ]
+  }
+}

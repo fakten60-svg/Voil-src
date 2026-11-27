@@ -1,0 +1,159 @@
+{
+  "accentColor1": [
+    180,
+    145,
+    110
+  ],
+  "accentColor2": [
+    210,
+    180,
+    150
+  ],
+  "blue1Enable": 150,
+  "blueEnable": 110,
+  "checkboxB": 110,
+  "checkboxG": 145,
+  "checkboxR": 180,
+  "configEditBg": [
+    245,
+    240,
+    230
+  ],
+  "description": "Yellow based theme",
+  "enabled": [
+    180,
+    145,
+    110
+  ],
+  "glowEnabled": false,
+  "green1Enable": 180,
+  "greenEnable": 145,
+  "highlightColor": [
+    200,
+    180,
+    160
+  ],
+  "leftPanel": [
+    235,
+    230,
+    220
+  ],
+  "light_id": "HYnnqx",
+  "modeSettingBg": [
+    230,
+    215,
+    200
+  ],
+  "modeSettingFill": [
+    220,
+    205,
+    190
+  ],
+  "moduleBorder": [
+    215,
+    200,
+    185
+  ],
+  "moduleColor": [
+    225,
+    210,
+    195
+  ],
+  "moduleDisabledBg": [
+    220,
+    205,
+    190
+  ],
+  "moduleDisabledBgHover": [
+    230,
+    220,
+    210
+  ],
+  "moduleEnabledBg": [
+    220,
+    205,
+    190
+  ],
+  "moduleEnabledBgHover": [
+    205,
+    190,
+    175
+  ],
+  "moduleText": [
+    110,
+    95,
+    80
+  ],
+  "name": "Sand",
+  "normalTextColor": [
+    90,
+    80,
+    70
+  ],
+  "outlineColor": [
+    190,
+    170,
+    145
+  ],
+  "red1Enable": 210,
+  "redEnable": 180,
+  "settingsBg": [
+    240,
+    235,
+    225
+  ],
+  "settingsHeader": [
+    225,
+    210,
+    195
+  ],
+  "sliderSettingBg": [
+    200,
+    185,
+    170
+  ],
+  "toggleButtonBg": [
+    180,
+    145,
+    110
+  ],
+  "toggleButtonFill": [
+    245,
+    240,
+    230
+  ],
+  "type": "light",
+  "unfocusedTextColor": [
+    160,
+    140,
+    130
+  ],
+  "windowColor": [
+    245,
+    240,
+    230
+  ],
+  "id": "HYnnqx",
+  "preview": {
+    "start": [
+      180,
+      145,
+      110
+    ],
+    "end": [
+      210,
+      180,
+      150
+    ],
+    "accent": [
+      180,
+      145,
+      110
+    ],
+    "background": [
+      245,
+      240,
+      230
+    ]
+  }
+}

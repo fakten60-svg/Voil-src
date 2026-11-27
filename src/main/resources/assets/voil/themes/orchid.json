@@ -1,0 +1,159 @@
+{
+  "accentColor1": [
+    236,
+    133,
+    209
+  ],
+  "accentColor2": [
+    28,
+    167,
+    222
+  ],
+  "blue1Enable": 222,
+  "blueEnable": 209,
+  "checkboxB": 209,
+  "checkboxG": 133,
+  "checkboxR": 236,
+  "configEditBg": [
+    12,
+    12,
+    14
+  ],
+  "dark_id": "oYMkFW",
+  "description": "modern dark theme with cotton candy colors",
+  "enabled": [
+    236,
+    133,
+    209
+  ],
+  "glowEnabled": true,
+  "green1Enable": 167,
+  "greenEnable": 133,
+  "highlightColor": [
+    236,
+    133,
+    209
+  ],
+  "leftPanel": [
+    20,
+    20,
+    24
+  ],
+  "modeSettingBg": [
+    26,
+    26,
+    30
+  ],
+  "modeSettingFill": [
+    18,
+    18,
+    20
+  ],
+  "moduleBorder": [
+    30,
+    30,
+    36
+  ],
+  "moduleColor": [
+    28,
+    28,
+    34
+  ],
+  "moduleDisabledBg": [
+    20,
+    20,
+    22
+  ],
+  "moduleDisabledBgHover": [
+    20,
+    20,
+    22
+  ],
+  "moduleEnabledBg": [
+    22,
+    21,
+    24
+  ],
+  "moduleEnabledBgHover": [
+    28,
+    28,
+    34
+  ],
+  "moduleText": [
+    200,
+    201,
+    203
+  ],
+  "name": "Orchid",
+  "normalTextColor": [
+    255,
+    255,
+    255
+  ],
+  "outlineColor": [
+    34,
+    34,
+    40
+  ],
+  "red1Enable": 28,
+  "redEnable": 236,
+  "settingsBg": [
+    14,
+    14,
+    16
+  ],
+  "settingsHeader": [
+    24,
+    24,
+    28
+  ],
+  "sliderSettingBg": [
+    38,
+    37,
+    42
+  ],
+  "toggleButtonBg": [
+    28,
+    167,
+    222
+  ],
+  "toggleButtonFill": [
+    18,
+    18,
+    20
+  ],
+  "type": "dark",
+  "unfocusedTextColor": [
+    120,
+    122,
+    125
+  ],
+  "windowColor": [
+    18,
+    18,
+    20
+  ],
+  "id": "oYMkFW",
+  "preview": {
+    "start": [
+      236,
+      133,
+      209
+    ],
+    "end": [
+      28,
+      167,
+      222
+    ],
+    "accent": [
+      236,
+      133,
+      209
+    ],
+    "background": [
+      18,
+      18,
+      20
+    ]
+  }
+}

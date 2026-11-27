@@ -1,0 +1,159 @@
+{
+  "accentColor1": [
+    130,
+    180,
+    160
+  ],
+  "accentColor2": [
+    170,
+    210,
+    190
+  ],
+  "blue1Enable": 190,
+  "blueEnable": 160,
+  "checkboxB": 160,
+  "checkboxG": 180,
+  "checkboxR": 130,
+  "configEditBg": [
+    240,
+    255,
+    250
+  ],
+  "description": "Green refreshing mint colors",
+  "enabled": [
+    130,
+    180,
+    160
+  ],
+  "glowEnabled": false,
+  "green1Enable": 210,
+  "greenEnable": 180,
+  "highlightColor": [
+    170,
+    210,
+    190
+  ],
+  "leftPanel": [
+    230,
+    245,
+    235
+  ],
+  "light_id": "Deqoh5",
+  "modeSettingBg": [
+    205,
+    235,
+    215
+  ],
+  "modeSettingFill": [
+    210,
+    240,
+    220
+  ],
+  "moduleBorder": [
+    180,
+    210,
+    190
+  ],
+  "moduleColor": [
+    180,
+    210,
+    190
+  ],
+  "moduleDisabledBg": [
+    195,
+    225,
+    205
+  ],
+  "moduleDisabledBgHover": [
+    200,
+    230,
+    210
+  ],
+  "moduleEnabledBg": [
+    205,
+    235,
+    215
+  ],
+  "moduleEnabledBgHover": [
+    210,
+    240,
+    220
+  ],
+  "moduleText": [
+    70,
+    100,
+    90
+  ],
+  "name": "Mint",
+  "normalTextColor": [
+    70,
+    100,
+    90
+  ],
+  "outlineColor": [
+    180,
+    210,
+    190
+  ],
+  "red1Enable": 170,
+  "redEnable": 130,
+  "settingsBg": [
+    240,
+    255,
+    245
+  ],
+  "settingsHeader": [
+    200,
+    230,
+    210
+  ],
+  "sliderSettingBg": [
+    180,
+    210,
+    190
+  ],
+  "toggleButtonBg": [
+    130,
+    180,
+    160
+  ],
+  "toggleButtonFill": [
+    240,
+    255,
+    250
+  ],
+  "type": "light",
+  "unfocusedTextColor": [
+    90,
+    120,
+    110
+  ],
+  "windowColor": [
+    240,
+    255,
+    250
+  ],
+  "id": "Deqoh5",
+  "preview": {
+    "start": [
+      130,
+      180,
+      160
+    ],
+    "end": [
+      170,
+      210,
+      190
+    ],
+    "accent": [
+      130,
+      180,
+      160
+    ],
+    "background": [
+      240,
+      255,
+      250
+    ]
+  }
+}

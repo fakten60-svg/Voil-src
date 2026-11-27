@@ -1,0 +1,159 @@
+{
+  "accentColor1": [
+    100,
+    160,
+    150
+  ],
+  "accentColor2": [
+    120,
+    200,
+    190
+  ],
+  "blue1Enable": 190,
+  "blueEnable": 150,
+  "checkboxB": 150,
+  "checkboxG": 160,
+  "checkboxR": 100,
+  "configEditBg": [
+    55,
+    65,
+    70
+  ],
+  "dark_id": "Yn1D1t",
+  "description": "Stale lushy theme",
+  "enabled": [
+    100,
+    160,
+    150
+  ],
+  "glowEnabled": false,
+  "green1Enable": 200,
+  "greenEnable": 160,
+  "highlightColor": [
+    120,
+    200,
+    190
+  ],
+  "leftPanel": [
+    70,
+    80,
+    85
+  ],
+  "modeSettingBg": [
+    75,
+    85,
+    90
+  ],
+  "modeSettingFill": [
+    90,
+    100,
+    105
+  ],
+  "moduleBorder": [
+    75,
+    85,
+    90
+  ],
+  "moduleColor": [
+    60,
+    70,
+    75
+  ],
+  "moduleDisabledBg": [
+    70,
+    80,
+    85
+  ],
+  "moduleDisabledBgHover": [
+    70,
+    80,
+    85
+  ],
+  "moduleEnabledBg": [
+    75,
+    85,
+    90
+  ],
+  "moduleEnabledBgHover": [
+    90,
+    100,
+    105
+  ],
+  "moduleText": [
+    190,
+    210,
+    205
+  ],
+  "name": "Stale",
+  "normalTextColor": [
+    180,
+    200,
+    195
+  ],
+  "outlineColor": [
+    70,
+    80,
+    85
+  ],
+  "red1Enable": 120,
+  "redEnable": 100,
+  "settingsBg": [
+    60,
+    70,
+    75
+  ],
+  "settingsHeader": [
+    80,
+    90,
+    95
+  ],
+  "sliderSettingBg": [
+    70,
+    80,
+    85
+  ],
+  "toggleButtonBg": [
+    100,
+    160,
+    150
+  ],
+  "toggleButtonFill": [
+    55,
+    65,
+    70
+  ],
+  "type": "dark",
+  "unfocusedTextColor": [
+    130,
+    170,
+    165
+  ],
+  "windowColor": [
+    55,
+    65,
+    70
+  ],
+  "id": "Yn1D1t",
+  "preview": {
+    "start": [
+      100,
+      160,
+      150
+    ],
+    "end": [
+      120,
+      200,
+      190
+    ],
+    "accent": [
+      100,
+      160,
+      150
+    ],
+    "background": [
+      55,
+      65,
+      70
+    ]
+  }
+}

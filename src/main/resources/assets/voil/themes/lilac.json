@@ -1,0 +1,159 @@
+{
+  "accentColor1": [
+    140,
+    120,
+    180
+  ],
+  "accentColor2": [
+    180,
+    170,
+    220
+  ],
+  "blue1Enable": 220,
+  "blueEnable": 180,
+  "checkboxB": 180,
+  "checkboxG": 120,
+  "checkboxR": 140,
+  "configEditBg": [
+    245,
+    240,
+    250
+  ],
+  "description": "Pretty lilac theme",
+  "enabled": [
+    140,
+    120,
+    180
+  ],
+  "glowEnabled": false,
+  "green1Enable": 170,
+  "greenEnable": 120,
+  "highlightColor": [
+    180,
+    170,
+    220
+  ],
+  "leftPanel": [
+    230,
+    225,
+    240
+  ],
+  "light_id": "L1ZYEi",
+  "modeSettingBg": [
+    215,
+    205,
+    235
+  ],
+  "modeSettingFill": [
+    220,
+    210,
+    240
+  ],
+  "moduleBorder": [
+    190,
+    180,
+    210
+  ],
+  "moduleColor": [
+    190,
+    180,
+    210
+  ],
+  "moduleDisabledBg": [
+    205,
+    195,
+    225
+  ],
+  "moduleDisabledBgHover": [
+    210,
+    200,
+    230
+  ],
+  "moduleEnabledBg": [
+    215,
+    205,
+    235
+  ],
+  "moduleEnabledBgHover": [
+    220,
+    210,
+    240
+  ],
+  "moduleText": [
+    80,
+    70,
+    110
+  ],
+  "name": "Lilac",
+  "normalTextColor": [
+    90,
+    80,
+    110
+  ],
+  "outlineColor": [
+    190,
+    180,
+    210
+  ],
+  "red1Enable": 180,
+  "redEnable": 140,
+  "settingsBg": [
+    240,
+    235,
+    245
+  ],
+  "settingsHeader": [
+    210,
+    200,
+    230
+  ],
+  "sliderSettingBg": [
+    190,
+    180,
+    210
+  ],
+  "toggleButtonBg": [
+    140,
+    120,
+    180
+  ],
+  "toggleButtonFill": [
+    245,
+    240,
+    250
+  ],
+  "type": "light",
+  "unfocusedTextColor": [
+    90,
+    80,
+    110
+  ],
+  "windowColor": [
+    245,
+    240,
+    250
+  ],
+  "id": "L1ZYEi",
+  "preview": {
+    "start": [
+      140,
+      120,
+      180
+    ],
+    "end": [
+      180,
+      170,
+      220
+    ],
+    "accent": [
+      140,
+      120,
+      180
+    ],
+    "background": [
+      245,
+      240,
+      250
+    ]
+  }
+}

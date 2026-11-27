@@ -1,0 +1,159 @@
+{
+  "accentColor1": [
+    170,
+    150,
+    180
+  ],
+  "accentColor2": [
+    190,
+    180,
+    210
+  ],
+  "blue1Enable": 210,
+  "blueEnable": 180,
+  "checkboxB": 180,
+  "checkboxG": 150,
+  "checkboxR": 170,
+  "configEditBg": [
+    60,
+    65,
+    75
+  ],
+  "dark_id": "6si0Yl",
+  "description": "Muted gray-blue with soft lavender highlights",
+  "enabled": [
+    170,
+    150,
+    180
+  ],
+  "glowEnabled": false,
+  "green1Enable": 180,
+  "greenEnable": 150,
+  "highlightColor": [
+    190,
+    180,
+    210
+  ],
+  "leftPanel": [
+    75,
+    80,
+    90
+  ],
+  "modeSettingBg": [
+    80,
+    85,
+    95
+  ],
+  "modeSettingFill": [
+    95,
+    100,
+    110
+  ],
+  "moduleBorder": [
+    80,
+    85,
+    95
+  ],
+  "moduleColor": [
+    65,
+    70,
+    80
+  ],
+  "moduleDisabledBg": [
+    75,
+    80,
+    90
+  ],
+  "moduleDisabledBgHover": [
+    75,
+    80,
+    90
+  ],
+  "moduleEnabledBg": [
+    80,
+    85,
+    95
+  ],
+  "moduleEnabledBgHover": [
+    95,
+    100,
+    110
+  ],
+  "moduleText": [
+    220,
+    210,
+    240
+  ],
+  "name": "Quartz",
+  "normalTextColor": [
+    210,
+    200,
+    230
+  ],
+  "outlineColor": [
+    75,
+    80,
+    90
+  ],
+  "red1Enable": 190,
+  "redEnable": 170,
+  "settingsBg": [
+    65,
+    70,
+    80
+  ],
+  "settingsHeader": [
+    85,
+    90,
+    100
+  ],
+  "sliderSettingBg": [
+    75,
+    80,
+    90
+  ],
+  "toggleButtonBg": [
+    170,
+    150,
+    180
+  ],
+  "toggleButtonFill": [
+    60,
+    65,
+    75
+  ],
+  "type": "dark",
+  "unfocusedTextColor": [
+    140,
+    130,
+    160
+  ],
+  "windowColor": [
+    60,
+    65,
+    75
+  ],
+  "id": "6si0Yl",
+  "preview": {
+    "start": [
+      170,
+      150,
+      180
+    ],
+    "end": [
+      190,
+      180,
+      210
+    ],
+    "accent": [
+      170,
+      150,
+      180
+    ],
+    "background": [
+      60,
+      65,
+      75
+    ]
+  }
+}

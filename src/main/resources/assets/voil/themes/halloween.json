@@ -1,0 +1,159 @@
+{
+  "accentColor1": [
+    255,
+    140,
+    0
+  ],
+  "accentColor2": [
+    100,
+    255,
+    0
+  ],
+  "blue1Enable": 0,
+  "blueEnable": 0,
+  "checkboxB": 0,
+  "checkboxG": 140,
+  "checkboxR": 255,
+  "configEditBg": [
+    25,
+    20,
+    15
+  ],
+  "dark_id": "Fi97oJ",
+  "description": "Spooky halloween theme",
+  "enabled": [
+    255,
+    115,
+    0
+  ],
+  "glowEnabled": true,
+  "green1Enable": 255,
+  "greenEnable": 140,
+  "highlightColor": [
+    170,
+    90,
+    20
+  ],
+  "leftPanel": [
+    40,
+    32,
+    26
+  ],
+  "modeSettingBg": [
+    40,
+    35,
+    28
+  ],
+  "modeSettingFill": [
+    35,
+    30,
+    25
+  ],
+  "moduleBorder": [
+    45,
+    38,
+    32
+  ],
+  "moduleColor": [
+    45,
+    40,
+    33
+  ],
+  "moduleDisabledBg": [
+    35,
+    30,
+    25
+  ],
+  "moduleDisabledBgHover": [
+    30,
+    25,
+    20
+  ],
+  "moduleEnabledBg": [
+    40,
+    33,
+    27
+  ],
+  "moduleEnabledBgHover": [
+    60,
+    50,
+    40
+  ],
+  "moduleText": [
+    230,
+    170,
+    120
+  ],
+  "name": "Halloween",
+  "normalTextColor": [
+    255,
+    165,
+    0
+  ],
+  "outlineColor": [
+    45,
+    38,
+    32
+  ],
+  "red1Enable": 100,
+  "redEnable": 255,
+  "settingsBg": [
+    20,
+    18,
+    15
+  ],
+  "settingsHeader": [
+    50,
+    42,
+    36
+  ],
+  "sliderSettingBg": [
+    60,
+    50,
+    40
+  ],
+  "toggleButtonBg": [
+    255,
+    140,
+    0
+  ],
+  "toggleButtonFill": [
+    35,
+    30,
+    25
+  ],
+  "type": "dark",
+  "unfocusedTextColor": [
+    100,
+    90,
+    70
+  ],
+  "windowColor": [
+    25,
+    22,
+    18
+  ],
+  "id": "Fi97oJ",
+  "preview": {
+    "start": [
+      255,
+      140,
+      0
+    ],
+    "end": [
+      100,
+      255,
+      0
+    ],
+    "accent": [
+      255,
+      115,
+      0
+    ],
+    "background": [
+      25,
+      22,
+      18
+    ]
+  }
+}

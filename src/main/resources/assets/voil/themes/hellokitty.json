@@ -1,0 +1,159 @@
+{
+  "accentColor1": [
+    255,
+    105,
+    180
+  ],
+  "accentColor2": [
+    255,
+    160,
+    220
+  ],
+  "blue1Enable": 200,
+  "blueEnable": 150,
+  "checkboxB": 170,
+  "checkboxG": 100,
+  "checkboxR": 255,
+  "configEditBg": [
+    255,
+    230,
+    240
+  ],
+  "description": "Pink based light theme",
+  "enabled": [
+    255,
+    105,
+    180
+  ],
+  "glowEnabled": true,
+  "green1Enable": 130,
+  "greenEnable": 70,
+  "highlightColor": [
+    255,
+    150,
+    210
+  ],
+  "leftPanel": [
+    255,
+    200,
+    220
+  ],
+  "light_id": "bkcNVx",
+  "modeSettingBg": [
+    255,
+    195,
+    220
+  ],
+  "modeSettingFill": [
+    255,
+    165,
+    190
+  ],
+  "moduleBorder": [
+    255,
+    180,
+    200
+  ],
+  "moduleColor": [
+    255,
+    175,
+    190
+  ],
+  "moduleDisabledBg": [
+    255,
+    190,
+    210
+  ],
+  "moduleDisabledBgHover": [
+    255,
+    210,
+    225
+  ],
+  "moduleEnabledBg": [
+    255,
+    165,
+    200
+  ],
+  "moduleEnabledBgHover": [
+    255,
+    140,
+    190
+  ],
+  "moduleText": [
+    120,
+    20,
+    80
+  ],
+  "name": "HelloKitty",
+  "normalTextColor": [
+    255,
+    20,
+    120
+  ],
+  "outlineColor": [
+    255,
+    140,
+    190
+  ],
+  "red1Enable": 255,
+  "redEnable": 255,
+  "settingsBg": [
+    255,
+    220,
+    230
+  ],
+  "settingsHeader": [
+    255,
+    195,
+    215
+  ],
+  "sliderSettingBg": [
+    255,
+    150,
+    200
+  ],
+  "toggleButtonBg": [
+    255,
+    105,
+    180
+  ],
+  "toggleButtonFill": [
+    255,
+    230,
+    240
+  ],
+  "type": "light",
+  "unfocusedTextColor": [
+    210,
+    180,
+    200
+  ],
+  "windowColor": [
+    255,
+    230,
+    240
+  ],
+  "id": "bkcNVx",
+  "preview": {
+    "start": [
+      255,
+      105,
+      180
+    ],
+    "end": [
+      255,
+      160,
+      220
+    ],
+    "accent": [
+      255,
+      105,
+      180
+    ],
+    "background": [
+      255,
+      230,
+      240
+    ]
+  }
+}

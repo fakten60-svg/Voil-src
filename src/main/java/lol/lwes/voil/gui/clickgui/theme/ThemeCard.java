@@ -1,0 +1,9 @@
+package lol.lwes.voil.gui.clickgui.theme;
+
+import lol.lwes.voil.config.ThemePreset;
+
+public record ThemeCard(ThemePreset preset, int x, int y, int width, int height) {
+    public boolean contains(double mouseX, double mouseY) {
+        return mouseX >= this.x && mouseX <= this.x + this.width && mouseY >= this.y && mouseY <= this.y + this.height;
+    }
+}

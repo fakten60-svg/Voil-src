@@ -1,0 +1,159 @@
+{
+  "accentColor1": [
+    186,
+    120,
+    226
+  ],
+  "accentColor2": [
+    242,
+    119,
+    29
+  ],
+  "blue1Enable": 29,
+  "blueEnable": 226,
+  "checkboxB": 226,
+  "checkboxG": 120,
+  "checkboxR": 186,
+  "configEditBg": [
+    18,
+    18,
+    22
+  ],
+  "dark_id": "nrJcch",
+  "description": "Dark modern theme with purple and orange colors",
+  "enabled": [
+    186,
+    120,
+    226
+  ],
+  "glowEnabled": true,
+  "green1Enable": 119,
+  "greenEnable": 120,
+  "highlightColor": [
+    186,
+    120,
+    226
+  ],
+  "leftPanel": [
+    28,
+    27,
+    33
+  ],
+  "modeSettingBg": [
+    44,
+    42,
+    50
+  ],
+  "modeSettingFill": [
+    32,
+    30,
+    38
+  ],
+  "moduleBorder": [
+    40,
+    38,
+    46
+  ],
+  "moduleColor": [
+    29,
+    28,
+    34
+  ],
+  "moduleDisabledBg": [
+    29,
+    28,
+    34
+  ],
+  "moduleDisabledBgHover": [
+    34,
+    33,
+    39
+  ],
+  "moduleEnabledBg": [
+    32,
+    30,
+    38
+  ],
+  "moduleEnabledBgHover": [
+    40,
+    37,
+    48
+  ],
+  "moduleText": [
+    170,
+    168,
+    175
+  ],
+  "name": "Mango Strawberry",
+  "normalTextColor": [
+    245,
+    245,
+    245
+  ],
+  "outlineColor": [
+    44,
+    42,
+    50
+  ],
+  "red1Enable": 242,
+  "redEnable": 186,
+  "settingsBg": [
+    22,
+    21,
+    27
+  ],
+  "settingsHeader": [
+    36,
+    34,
+    40
+  ],
+  "sliderSettingBg": [
+    242,
+    119,
+    29
+  ],
+  "toggleButtonBg": [
+    186,
+    120,
+    226
+  ],
+  "toggleButtonFill": [
+    32,
+    30,
+    38
+  ],
+  "type": "dark",
+  "unfocusedTextColor": [
+    115,
+    116,
+    120
+  ],
+  "windowColor": [
+    22,
+    21,
+    27
+  ],
+  "id": "nrJcch",
+  "preview": {
+    "start": [
+      186,
+      120,
+      226
+    ],
+    "end": [
+      242,
+      119,
+      29
+    ],
+    "accent": [
+      186,
+      120,
+      226
+    ],
+    "background": [
+      22,
+      21,
+      27
+    ]
+  }
+}
